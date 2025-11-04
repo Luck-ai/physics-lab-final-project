@@ -1,6 +1,6 @@
-# Physics Lab Final Project: Air Quality Monitoring System
+# Air Quality Monitoring System
 
-This repository contains code for a dual ESP32-based air quality monitoring system, featuring real-time data collection and visualization.
+A dual ESP32-based air quality monitoring system, featuring real-time data collection and visualization.
 
 ## Overview
 
